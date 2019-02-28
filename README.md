@@ -5,6 +5,12 @@ Little python3 tool to spam an vk acount
 
 git clone https://github.com/antononim/vkill.git
 
-./vkill/install.sh
+cd vkill
+
+chmod +x install.sh
+
+./install.sh
+
+#launch from everywhere in system
 
 vkill
